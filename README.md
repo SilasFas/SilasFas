@@ -11,7 +11,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Silas-git" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>        
+  <img align="center" alt="Silas-git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>        
   <img align="center" alt="Silas-HTML" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Silas-CSS" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Silas-Js" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
