@@ -1,6 +1,6 @@
 ### Hi there, I'm Silas!<strong/>
 - 🔭 I’m currently working in front-end.
-- 🌱 I’m currently learning ReactJS and TypeScript.
+- 🌱 I’m currently learning ReactJS, MySQL and PHP.
 - 👯 I’m looking to collaborate on projects that make peoples's life easier.
 - 💬 Ask me about Anything!
 
